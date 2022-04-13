@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mi_item_xoalienlac"
+        android:title="Xóa liên lac"/>
+
+    <item android:id="@+id/mi_item_xemthongtin"
+        android:title="Xem thông tin chi tiết"/>
+
+    <item android:id="@+id/mi_item_goidienthoai"
+        android:title="Gọi điện thoại"/>
+</menu>
